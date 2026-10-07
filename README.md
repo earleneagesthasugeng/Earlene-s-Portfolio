@@ -5,11 +5,12 @@ A one-page, static portfolio site built with plain **HTML, CSS and JavaScript** 
 ## Structure
 
 ```
-index.html        → all page content (hero, about, skills, 6 projects, contact)
+index.html        → all page content (hero, about, skills, 6 projects, certifications, contact)
 css/style.css     → all styling, numbered sections in the same order as index.html
 js/main.js        → scroll reveal animation, active nav link, scroll progress bar
 CV/               → the downloadable CV (PDF)
-Images/           → profile photo + ProjectX folders
+Certificates/     → original certificate PDFs (opened when a certificate preview is clicked)
+Images/           → profile photo, ProjectX folders + Certificates/ (JPG previews of the PDFs)
 ```
 
 ## How things work

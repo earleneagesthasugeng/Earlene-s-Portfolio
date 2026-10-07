@@ -26,7 +26,7 @@ document.querySelectorAll('.reveal').forEach((el) => revealObserver.observe(el))
 
 // ---------- 2. Active link in the header ----------
 const navLinks = document.querySelectorAll('.nav-link');
-const sections = document.querySelectorAll('#home, #about, #skills, #projects, #contact');
+const sections = document.querySelectorAll('#home, #about, #skills, #projects, #certifications, #contact');
 
 const navObserver = new IntersectionObserver(
   (entries) => {
