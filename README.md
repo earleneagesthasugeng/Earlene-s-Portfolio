@@ -26,7 +26,7 @@ Images/           → profile photo, ProjectX folders + Certificates/ (JPG previ
 ## Updating the CV
 
 1. Export the new CV as PDF.
-2. Rename it to **`CV_EarleneAgesthaSugeng.pdf`** and replace the file in the `CV/` folder.
+2. Rename it to **`EarleneAgesthaSugeng_CV.pdf`** and replace the file in the `CV/` folder.
 3. Commit & push to GitHub. Vercel redeploys automatically.
 
 ## Deploying
